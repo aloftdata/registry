@@ -1,11 +1,11 @@
-name: Fetch data
+name: Get data
 on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch: {}
   push:
     paths:
-      - .github/workflows/fetch_data.yml
+      - .github/workflows/flat.yml
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -20,4 +20,8 @@ jobs:
         uses: githubocto/flat@v3
         with:
           http_url: https://zenodo.org/api/records?communities=aloft&type=dataset
-          downloaded_filename: data/raw/aloft_datasets.json
+          downloaded_filename: aloft_datasets.json
+      - name: Fetch data
+        uses: githubocto/flat@v3
+        with:
+          http_url: ""
