@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - .github/workflows/flat.yml
+      - ./aloft_datasets.js
 jobs:
   scheduled:
     runs-on: ubuntu-latest
@@ -21,6 +22,7 @@ jobs:
         with:
           http_url: https://zenodo.org/api/records?communities=aloft&type=dataset
           downloaded_filename: aloft_datasets.json
+          postprocess: ./aloft_datasets.js
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
