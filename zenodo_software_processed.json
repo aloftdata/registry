@@ -281,12 +281,12 @@
     "stats": {
       "downloads": 82,
       "unique_downloads": 81,
-      "views": 255,
-      "unique_views": 238,
+      "views": 256,
+      "unique_views": 239,
       "version_downloads": 10,
       "version_unique_downloads": 10,
-      "version_unique_views": 23,
-      "version_views": 23
+      "version_unique_views": 24,
+      "version_views": 24
     },
     "state": "done",
     "submitted": true
@@ -368,10 +368,10 @@
       },
       "communities": [
         {
-          "id": "inbo"
+          "id": "oscibio"
         },
         {
-          "id": "oscibio"
+          "id": "inbo"
         },
         {
           "id": "aloft"
@@ -515,10 +515,10 @@
       },
       "communities": [
         {
-          "id": "inbo"
+          "id": "oscibio"
         },
         {
-          "id": "oscibio"
+          "id": "inbo"
         },
         {
           "id": "aloft"
@@ -977,10 +977,10 @@
       },
       "communities": [
         {
-          "id": "inbo"
+          "id": "oscibio"
         },
         {
-          "id": "oscibio"
+          "id": "inbo"
         },
         {
           "id": "aloft"

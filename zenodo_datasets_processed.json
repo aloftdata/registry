@@ -242,10 +242,10 @@
           "id": "aloft"
         },
         {
-          "id": "inbo"
+          "id": "oscibio"
         },
         {
-          "id": "oscibio"
+          "id": "inbo"
         }
       ],
       "relations": {
@@ -489,12 +489,12 @@
     "stats": {
       "downloads": 2690,
       "unique_downloads": 2603,
-      "views": 272,
-      "unique_views": 235,
+      "views": 273,
+      "unique_views": 236,
       "version_downloads": 1032,
       "version_unique_downloads": 945,
-      "version_unique_views": 73,
-      "version_views": 89
+      "version_unique_views": 74,
+      "version_views": 90
     },
     "state": "done",
     "submitted": true
@@ -684,10 +684,10 @@
           "id": "aloft"
         },
         {
-          "id": "inbo"
+          "id": "oscibio"
         },
         {
-          "id": "oscibio"
+          "id": "inbo"
         }
       ],
       "relations": {
@@ -971,12 +971,12 @@
     "stats": {
       "downloads": 108,
       "unique_downloads": 96,
-      "views": 1417,
-      "unique_views": 1344,
+      "views": 1418,
+      "unique_views": 1345,
       "version_downloads": 76,
       "version_unique_downloads": 68,
-      "version_unique_views": 734,
-      "version_views": 796
+      "version_unique_views": 735,
+      "version_views": 797
     },
     "state": "done",
     "submitted": true
@@ -1381,10 +1381,10 @@
           "id": "aloft"
         },
         {
-          "id": "inbo"
+          "id": "oscibio"
         },
         {
-          "id": "oscibio"
+          "id": "inbo"
         }
       ],
       "relations": {
@@ -1456,12 +1456,12 @@
     "stats": {
       "downloads": 124,
       "unique_downloads": 102,
-      "views": 799,
-      "unique_views": 753,
+      "views": 800,
+      "unique_views": 754,
       "version_downloads": 124,
       "version_unique_downloads": 102,
-      "version_unique_views": 752,
-      "version_views": 798
+      "version_unique_views": 753,
+      "version_views": 799
     },
     "state": "done",
     "submitted": true
