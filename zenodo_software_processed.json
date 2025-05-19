@@ -148,10 +148,10 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 121,
-      "unique_downloads": 118,
-      "views": 2459,
-      "unique_views": 2385,
+      "downloads": 122,
+      "unique_downloads": 119,
+      "views": 2460,
+      "unique_views": 2386,
       "version_downloads": 13,
       "version_unique_downloads": 13,
       "version_unique_views": 24,
@@ -672,10 +672,10 @@
       },
       "communities": [
         {
-          "id": "aloft"
+          "id": "vora"
         },
         {
-          "id": "vora"
+          "id": "aloft"
         }
       ],
       "relations": {
