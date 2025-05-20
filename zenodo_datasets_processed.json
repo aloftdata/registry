@@ -239,13 +239,13 @@
       ],
       "communities": [
         {
-          "id": "inbo"
-        },
-        {
           "id": "oscibio"
         },
         {
           "id": "aloft"
+        },
+        {
+          "id": "inbo"
         }
       ],
       "relations": {
@@ -487,12 +487,12 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 2692,
-      "unique_downloads": 2605,
+      "downloads": 2694,
+      "unique_downloads": 2607,
       "views": 273,
       "unique_views": 236,
-      "version_downloads": 1032,
-      "version_unique_downloads": 945,
+      "version_downloads": 1034,
+      "version_unique_downloads": 947,
       "version_unique_views": 74,
       "version_views": 90
     },
@@ -681,13 +681,13 @@
       ],
       "communities": [
         {
-          "id": "inbo"
-        },
-        {
           "id": "oscibio"
         },
         {
           "id": "aloft"
+        },
+        {
+          "id": "inbo"
         }
       ],
       "relations": {
@@ -896,10 +896,10 @@
       },
       "communities": [
         {
-          "id": "vora"
+          "id": "aloft"
         },
         {
-          "id": "aloft"
+          "id": "vora"
         }
       ],
       "relations": {
@@ -969,14 +969,14 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 108,
-      "unique_downloads": 96,
-      "views": 1418,
-      "unique_views": 1345,
-      "version_downloads": 76,
-      "version_unique_downloads": 68,
-      "version_unique_views": 735,
-      "version_views": 797
+      "downloads": 110,
+      "unique_downloads": 98,
+      "views": 1419,
+      "unique_views": 1346,
+      "version_downloads": 78,
+      "version_unique_downloads": 70,
+      "version_unique_views": 736,
+      "version_views": 798
     },
     "state": "done",
     "submitted": true
@@ -1378,13 +1378,13 @@
       },
       "communities": [
         {
-          "id": "inbo"
-        },
-        {
           "id": "oscibio"
         },
         {
           "id": "aloft"
+        },
+        {
+          "id": "inbo"
         }
       ],
       "relations": {
