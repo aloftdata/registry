@@ -150,12 +150,12 @@
     "stats": {
       "downloads": 122,
       "unique_downloads": 119,
-      "views": 2461,
-      "unique_views": 2387,
+      "views": 2462,
+      "unique_views": 2388,
       "version_downloads": 13,
       "version_unique_downloads": 13,
-      "version_unique_views": 24,
-      "version_views": 25
+      "version_unique_views": 25,
+      "version_views": 26
     },
     "state": "done",
     "submitted": true
@@ -371,10 +371,10 @@
           "id": "aloft"
         },
         {
-          "id": "oscibio"
+          "id": "inbo"
         },
         {
-          "id": "inbo"
+          "id": "oscibio"
         }
       ],
       "relations": {
@@ -449,12 +449,12 @@
     "stats": {
       "downloads": 43,
       "unique_downloads": 43,
-      "views": 157,
-      "unique_views": 138,
+      "views": 159,
+      "unique_views": 139,
       "version_downloads": 37,
       "version_unique_downloads": 37,
-      "version_unique_views": 108,
-      "version_views": 115
+      "version_unique_views": 109,
+      "version_views": 117
     },
     "state": "done",
     "submitted": true
@@ -518,10 +518,10 @@
           "id": "aloft"
         },
         {
-          "id": "oscibio"
+          "id": "inbo"
         },
         {
-          "id": "inbo"
+          "id": "oscibio"
         }
       ],
       "relations": {
@@ -672,10 +672,10 @@
       },
       "communities": [
         {
-          "id": "vora"
+          "id": "aloft"
         },
         {
-          "id": "aloft"
+          "id": "vora"
         }
       ],
       "relations": {
@@ -980,10 +980,10 @@
           "id": "aloft"
         },
         {
-          "id": "oscibio"
+          "id": "inbo"
         },
         {
-          "id": "inbo"
+          "id": "oscibio"
         }
       ],
       "relations": {
@@ -1054,12 +1054,12 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 56,
-      "unique_downloads": 56,
+      "downloads": 57,
+      "unique_downloads": 57,
       "views": 410,
       "unique_views": 379,
-      "version_downloads": 39,
-      "version_unique_downloads": 39,
+      "version_downloads": 40,
+      "version_unique_downloads": 40,
       "version_unique_views": 177,
       "version_views": 186
     },
