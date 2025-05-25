@@ -150,8 +150,8 @@
     "stats": {
       "downloads": 123,
       "unique_downloads": 120,
-      "views": 2465,
-      "unique_views": 2391,
+      "views": 2466,
+      "unique_views": 2392,
       "version_downloads": 14,
       "version_unique_downloads": 14,
       "version_unique_views": 26,
@@ -368,10 +368,10 @@
       },
       "communities": [
         {
-          "id": "aloft"
+          "id": "oscibio"
         },
         {
-          "id": "oscibio"
+          "id": "aloft"
         },
         {
           "id": "inbo"
@@ -515,10 +515,10 @@
       },
       "communities": [
         {
-          "id": "aloft"
+          "id": "oscibio"
         },
         {
-          "id": "oscibio"
+          "id": "aloft"
         },
         {
           "id": "inbo"
@@ -672,10 +672,10 @@
       },
       "communities": [
         {
-          "id": "aloft"
+          "id": "vora"
         },
         {
-          "id": "vora"
+          "id": "aloft"
         }
       ],
       "relations": {
@@ -977,10 +977,10 @@
       },
       "communities": [
         {
-          "id": "aloft"
+          "id": "oscibio"
         },
         {
-          "id": "oscibio"
+          "id": "aloft"
         },
         {
           "id": "inbo"
