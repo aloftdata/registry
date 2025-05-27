@@ -148,14 +148,14 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 123,
-      "unique_downloads": 120,
-      "views": 2466,
-      "unique_views": 2392,
+      "downloads": 125,
+      "unique_downloads": 122,
+      "views": 2467,
+      "unique_views": 2393,
       "version_downloads": 14,
       "version_unique_downloads": 14,
-      "version_unique_views": 26,
-      "version_views": 27
+      "version_unique_views": 27,
+      "version_views": 28
     },
     "state": "done",
     "submitted": true
@@ -279,14 +279,14 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 84,
-      "unique_downloads": 83,
-      "views": 263,
-      "unique_views": 246,
-      "version_downloads": 10,
-      "version_unique_downloads": 10,
-      "version_unique_views": 26,
-      "version_views": 26
+      "downloads": 87,
+      "unique_downloads": 86,
+      "views": 266,
+      "unique_views": 249,
+      "version_downloads": 11,
+      "version_unique_downloads": 11,
+      "version_unique_views": 29,
+      "version_views": 29
     },
     "state": "done",
     "submitted": true
@@ -368,13 +368,13 @@
       },
       "communities": [
         {
-          "id": "inbo"
-        },
-        {
           "id": "oscibio"
         },
         {
           "id": "aloft"
+        },
+        {
+          "id": "inbo"
         }
       ],
       "relations": {
@@ -515,13 +515,13 @@
       },
       "communities": [
         {
-          "id": "inbo"
-        },
-        {
           "id": "oscibio"
         },
         {
           "id": "aloft"
+        },
+        {
+          "id": "inbo"
         }
       ],
       "relations": {
@@ -890,8 +890,8 @@
     "stats": {
       "downloads": 59,
       "unique_downloads": 56,
-      "views": 1145,
-      "unique_views": 1106,
+      "views": 1146,
+      "unique_views": 1107,
       "version_downloads": 7,
       "version_unique_downloads": 7,
       "version_unique_views": 74,
@@ -977,13 +977,13 @@
       },
       "communities": [
         {
-          "id": "inbo"
-        },
-        {
           "id": "oscibio"
         },
         {
           "id": "aloft"
+        },
+        {
+          "id": "inbo"
         }
       ],
       "relations": {
