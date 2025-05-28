@@ -239,13 +239,13 @@
       ],
       "communities": [
         {
-          "id": "aloft"
+          "id": "inbo"
         },
         {
           "id": "oscibio"
         },
         {
-          "id": "inbo"
+          "id": "aloft"
         }
       ],
       "relations": {
@@ -487,12 +487,12 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 2816,
-      "unique_downloads": 2729,
+      "downloads": 2897,
+      "unique_downloads": 2810,
       "views": 274,
       "unique_views": 237,
-      "version_downloads": 1156,
-      "version_unique_downloads": 1069,
+      "version_downloads": 1236,
+      "version_unique_downloads": 1149,
       "version_unique_views": 75,
       "version_views": 91
     },
@@ -681,13 +681,13 @@
       ],
       "communities": [
         {
-          "id": "aloft"
+          "id": "inbo"
         },
         {
           "id": "oscibio"
         },
         {
-          "id": "inbo"
+          "id": "aloft"
         }
       ],
       "relations": {
@@ -794,12 +794,12 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 918,
-      "unique_downloads": 892,
+      "downloads": 938,
+      "unique_downloads": 912,
       "views": 245,
       "unique_views": 218,
-      "version_downloads": 154,
-      "version_unique_downloads": 128,
+      "version_downloads": 174,
+      "version_unique_downloads": 148,
       "version_unique_views": 60,
       "version_views": 70
     },
@@ -1169,10 +1169,10 @@
       },
       "communities": [
         {
-          "id": "aloft"
+          "id": "oscibio"
         },
         {
-          "id": "oscibio"
+          "id": "aloft"
         }
       ],
       "relations": {
@@ -1299,12 +1299,12 @@
     "stats": {
       "downloads": 1229,
       "unique_downloads": 752,
-      "views": 1564,
-      "unique_views": 1394,
+      "views": 1567,
+      "unique_views": 1396,
       "version_downloads": 1229,
       "version_unique_downloads": 752,
-      "version_unique_views": 1389,
-      "version_views": 1557
+      "version_unique_views": 1391,
+      "version_views": 1560
     },
     "state": "done",
     "submitted": true
@@ -1378,13 +1378,13 @@
       },
       "communities": [
         {
-          "id": "aloft"
+          "id": "inbo"
         },
         {
           "id": "oscibio"
         },
         {
-          "id": "inbo"
+          "id": "aloft"
         }
       ],
       "relations": {
