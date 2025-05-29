@@ -239,13 +239,13 @@
       ],
       "communities": [
         {
-          "id": "inbo"
+          "id": "aloft"
         },
         {
           "id": "oscibio"
         },
         {
-          "id": "aloft"
+          "id": "inbo"
         }
       ],
       "relations": {
@@ -489,12 +489,12 @@
     "stats": {
       "downloads": 2897,
       "unique_downloads": 2810,
-      "views": 274,
-      "unique_views": 237,
+      "views": 276,
+      "unique_views": 239,
       "version_downloads": 1236,
       "version_unique_downloads": 1149,
-      "version_unique_views": 75,
-      "version_views": 91
+      "version_unique_views": 76,
+      "version_views": 92
     },
     "state": "done",
     "submitted": true
@@ -681,13 +681,13 @@
       ],
       "communities": [
         {
-          "id": "inbo"
+          "id": "aloft"
         },
         {
           "id": "oscibio"
         },
         {
-          "id": "aloft"
+          "id": "inbo"
         }
       ],
       "relations": {
@@ -794,14 +794,14 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 938,
-      "unique_downloads": 912,
-      "views": 245,
-      "unique_views": 218,
+      "downloads": 939,
+      "unique_downloads": 913,
+      "views": 247,
+      "unique_views": 220,
       "version_downloads": 174,
       "version_unique_downloads": 148,
-      "version_unique_views": 60,
-      "version_views": 70
+      "version_unique_views": 61,
+      "version_views": 71
     },
     "state": "done",
     "submitted": true
@@ -971,12 +971,12 @@
     "stats": {
       "downloads": 112,
       "unique_downloads": 100,
-      "views": 1420,
-      "unique_views": 1347,
+      "views": 1423,
+      "unique_views": 1350,
       "version_downloads": 79,
       "version_unique_downloads": 71,
-      "version_unique_views": 737,
-      "version_views": 799
+      "version_unique_views": 740,
+      "version_views": 802
     },
     "state": "done",
     "submitted": true
@@ -1169,10 +1169,10 @@
       },
       "communities": [
         {
-          "id": "oscibio"
+          "id": "aloft"
         },
         {
-          "id": "aloft"
+          "id": "oscibio"
         }
       ],
       "relations": {
@@ -1378,13 +1378,13 @@
       },
       "communities": [
         {
-          "id": "inbo"
+          "id": "aloft"
         },
         {
           "id": "oscibio"
         },
         {
-          "id": "aloft"
+          "id": "inbo"
         }
       ],
       "relations": {
