@@ -239,13 +239,13 @@
       ],
       "communities": [
         {
-          "id": "aloft"
+          "id": "inbo"
         },
         {
           "id": "oscibio"
         },
         {
-          "id": "inbo"
+          "id": "aloft"
         }
       ],
       "relations": {
@@ -681,13 +681,13 @@
       ],
       "communities": [
         {
-          "id": "aloft"
+          "id": "inbo"
         },
         {
           "id": "oscibio"
         },
         {
-          "id": "inbo"
+          "id": "aloft"
         }
       ],
       "relations": {
@@ -896,10 +896,10 @@
       },
       "communities": [
         {
-          "id": "aloft"
+          "id": "vora"
         },
         {
-          "id": "vora"
+          "id": "aloft"
         }
       ],
       "relations": {
@@ -971,12 +971,12 @@
     "stats": {
       "downloads": 112,
       "unique_downloads": 100,
-      "views": 1423,
-      "unique_views": 1350,
+      "views": 1425,
+      "unique_views": 1352,
       "version_downloads": 79,
       "version_unique_downloads": 71,
-      "version_unique_views": 740,
-      "version_views": 802
+      "version_unique_views": 741,
+      "version_views": 803
     },
     "state": "done",
     "submitted": true
@@ -1169,10 +1169,10 @@
       },
       "communities": [
         {
-          "id": "aloft"
+          "id": "oscibio"
         },
         {
-          "id": "oscibio"
+          "id": "aloft"
         }
       ],
       "relations": {
@@ -1378,13 +1378,13 @@
       },
       "communities": [
         {
-          "id": "aloft"
+          "id": "inbo"
         },
         {
           "id": "oscibio"
         },
         {
-          "id": "inbo"
+          "id": "aloft"
         }
       ],
       "relations": {
