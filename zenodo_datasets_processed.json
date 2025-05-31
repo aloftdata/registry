@@ -242,10 +242,10 @@
           "id": "inbo"
         },
         {
-          "id": "oscibio"
+          "id": "aloft"
         },
         {
-          "id": "aloft"
+          "id": "oscibio"
         }
       ],
       "relations": {
@@ -684,10 +684,10 @@
           "id": "inbo"
         },
         {
-          "id": "oscibio"
+          "id": "aloft"
         },
         {
-          "id": "aloft"
+          "id": "oscibio"
         }
       ],
       "relations": {
@@ -969,14 +969,14 @@
     ],
     "status": "published",
     "stats": {
-      "downloads": 112,
-      "unique_downloads": 100,
-      "views": 1425,
-      "unique_views": 1352,
+      "downloads": 113,
+      "unique_downloads": 101,
+      "views": 1427,
+      "unique_views": 1354,
       "version_downloads": 79,
       "version_unique_downloads": 71,
-      "version_unique_views": 741,
-      "version_views": 803
+      "version_unique_views": 742,
+      "version_views": 804
     },
     "state": "done",
     "submitted": true
@@ -1169,10 +1169,10 @@
       },
       "communities": [
         {
-          "id": "oscibio"
+          "id": "aloft"
         },
         {
-          "id": "aloft"
+          "id": "oscibio"
         }
       ],
       "relations": {
@@ -1299,12 +1299,12 @@
     "stats": {
       "downloads": 1229,
       "unique_downloads": 752,
-      "views": 1567,
-      "unique_views": 1396,
+      "views": 1568,
+      "unique_views": 1397,
       "version_downloads": 1229,
       "version_unique_downloads": 752,
-      "version_unique_views": 1391,
-      "version_views": 1560
+      "version_unique_views": 1392,
+      "version_views": 1561
     },
     "state": "done",
     "submitted": true
@@ -1381,10 +1381,10 @@
           "id": "inbo"
         },
         {
-          "id": "oscibio"
+          "id": "aloft"
         },
         {
-          "id": "aloft"
+          "id": "oscibio"
         }
       ],
       "relations": {
@@ -1456,12 +1456,12 @@
     "stats": {
       "downloads": 125,
       "unique_downloads": 103,
-      "views": 801,
-      "unique_views": 755,
+      "views": 802,
+      "unique_views": 756,
       "version_downloads": 125,
       "version_unique_downloads": 103,
-      "version_unique_views": 754,
-      "version_views": 800
+      "version_unique_views": 755,
+      "version_views": 801
     },
     "state": "done",
     "submitted": true
