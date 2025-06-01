@@ -368,13 +368,13 @@
       },
       "communities": [
         {
+          "id": "oscibio"
+        },
+        {
           "id": "inbo"
         },
         {
           "id": "aloft"
-        },
-        {
-          "id": "oscibio"
         }
       ],
       "relations": {
@@ -515,13 +515,13 @@
       },
       "communities": [
         {
+          "id": "oscibio"
+        },
+        {
           "id": "inbo"
         },
         {
           "id": "aloft"
-        },
-        {
-          "id": "oscibio"
         }
       ],
       "relations": {
@@ -977,13 +977,13 @@
       },
       "communities": [
         {
+          "id": "oscibio"
+        },
+        {
           "id": "inbo"
         },
         {
           "id": "aloft"
-        },
-        {
-          "id": "oscibio"
         }
       ],
       "relations": {
