@@ -239,13 +239,13 @@
       ],
       "communities": [
         {
-          "id": "oscibio"
+          "id": "aloft"
         },
         {
           "id": "inbo"
         },
         {
-          "id": "aloft"
+          "id": "oscibio"
         }
       ],
       "relations": {
@@ -681,13 +681,13 @@
       ],
       "communities": [
         {
-          "id": "oscibio"
+          "id": "aloft"
         },
         {
           "id": "inbo"
         },
         {
-          "id": "aloft"
+          "id": "oscibio"
         }
       ],
       "relations": {
@@ -896,10 +896,10 @@
       },
       "communities": [
         {
-          "id": "vora"
+          "id": "aloft"
         },
         {
-          "id": "aloft"
+          "id": "vora"
         }
       ],
       "relations": {
@@ -971,12 +971,12 @@
     "stats": {
       "downloads": 113,
       "unique_downloads": 101,
-      "views": 1427,
-      "unique_views": 1354,
+      "views": 1428,
+      "unique_views": 1355,
       "version_downloads": 79,
       "version_unique_downloads": 71,
-      "version_unique_views": 742,
-      "version_views": 804
+      "version_unique_views": 743,
+      "version_views": 805
     },
     "state": "done",
     "submitted": true
@@ -1169,10 +1169,10 @@
       },
       "communities": [
         {
-          "id": "oscibio"
+          "id": "aloft"
         },
         {
-          "id": "aloft"
+          "id": "oscibio"
         }
       ],
       "relations": {
@@ -1378,13 +1378,13 @@
       },
       "communities": [
         {
-          "id": "oscibio"
+          "id": "aloft"
         },
         {
           "id": "inbo"
         },
         {
-          "id": "aloft"
+          "id": "oscibio"
         }
       ],
       "relations": {
@@ -1456,12 +1456,12 @@
     "stats": {
       "downloads": 125,
       "unique_downloads": 103,
-      "views": 803,
-      "unique_views": 757,
+      "views": 805,
+      "unique_views": 759,
       "version_downloads": 125,
       "version_unique_downloads": 103,
-      "version_unique_views": 756,
-      "version_views": 802
+      "version_unique_views": 758,
+      "version_views": 804
     },
     "state": "done",
     "submitted": true
