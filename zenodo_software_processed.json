@@ -371,10 +371,10 @@
           "id": "oscibio"
         },
         {
-          "id": "aloft"
+          "id": "inbo"
         },
         {
-          "id": "inbo"
+          "id": "aloft"
         }
       ],
       "relations": {
@@ -518,10 +518,10 @@
           "id": "oscibio"
         },
         {
-          "id": "aloft"
+          "id": "inbo"
         },
         {
-          "id": "inbo"
+          "id": "aloft"
         }
       ],
       "relations": {
@@ -747,12 +747,12 @@
     "stats": {
       "downloads": 77,
       "unique_downloads": 77,
-      "views": 869,
-      "unique_views": 786,
+      "views": 870,
+      "unique_views": 787,
       "version_downloads": 24,
       "version_unique_downloads": 24,
-      "version_unique_views": 181,
-      "version_views": 199
+      "version_unique_views": 182,
+      "version_views": 200
     },
     "state": "done",
     "submitted": true
@@ -980,10 +980,10 @@
           "id": "oscibio"
         },
         {
-          "id": "aloft"
+          "id": "inbo"
         },
         {
-          "id": "inbo"
+          "id": "aloft"
         }
       ],
       "relations": {
