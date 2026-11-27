@@ -1,0 +1,2 @@
+# The adapters that run, in order. Each name is a module in registry/adapters/.
+adapters = ["opera"]

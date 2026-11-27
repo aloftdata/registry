@@ -1,0 +1,12 @@
+[project]
+name = "aloft-registry"
+version = "0.1.0"
+description = "Builds the Aloft radar registry from public radar lists"
+requires-python = ">=3.11"
+dependencies = ["jsonschema>=4"]
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

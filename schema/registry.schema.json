@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Aloft radar registry, version 1",
+  "description": "A GeoJSON FeatureCollection with one point per deployment: a radar at a place for a period.",
+  "type": "object",
+  "required": ["type", "features"],
+  "properties": {
+    "type": { "const": "FeatureCollection" },
+    "features": { "type": "array", "items": { "$ref": "#/$defs/deployment" } }
+  },
+  "$defs": {
+    "number": { "type": ["number", "null"] },
+    "text": { "type": ["string", "null"] },
+    "deployment": {
+      "type": "object",
+      "required": ["type", "geometry", "properties"],
+      "properties": {
+        "type": { "const": "Feature" },
+        "geometry": {
+          "type": "object",
+          "required": ["type", "coordinates"],
+          "properties": {
+            "type": { "const": "Point" },
+            "coordinates": {
+              "description": "Longitude, then latitude, in decimal degrees (WGS 84).",
+              "type": "array",
+              "prefixItems": [
+                { "type": "number", "minimum": -180, "maximum": 180 },
+                { "type": "number", "minimum": -90, "maximum": 90 }
+              ],
+              "minItems": 2,
+              "maxItems": 2
+            }
+          }
+        },
+        "properties": {
+          "type": "object",
+          "required": ["deployment_id", "radar_id", "type", "source", "datasets"],
+          "additionalProperties": false,
+          "properties": {
+            "deployment_id": { "type": "string", "minLength": 1 },
+            "radar_id": { "type": "string", "minLength": 1 },
+            "alt_codes": { "description": "Other codes for the radar, such as its WMO code.", "type": "array", "items": { "type": "string" } },
+            "type": { "enum": ["weather", "birdscan", "other"] },
+            "source": { "description": "The adapter that produced the deployment.", "type": "string" },
+            "country": { "$ref": "#/$defs/text" },
+            "location": { "$ref": "#/$defs/text" },
+            "start": { "description": "Year or ISO 8601 date.", "$ref": "#/$defs/text" },
+            "end": { "description": "Year or ISO 8601 date. Null: still active, or not known.", "$ref": "#/$defs/text" },
+            "band": { "$ref": "#/$defs/text" },
+            "frequency": { "description": "GHz.", "$ref": "#/$defs/number" },
+            "polarization": { "enum": ["single", "dual", null] },
+            "gain": { "description": "dBi.", "$ref": "#/$defs/number" },
+            "beamwidth": { "description": "Degrees.", "$ref": "#/$defs/number" },
+            "antenna_diameter": { "description": "Metres.", "$ref": "#/$defs/number" },
+            "max_range": { "description": "Kilometres.", "$ref": "#/$defs/number" },
+            "elevation": { "description": "Height of the site above sea level, in metres.", "$ref": "#/$defs/number" },
+            "antenna_height": { "description": "Metres.", "$ref": "#/$defs/number" },
+            "datasets": { "type": "array" }
+          }
+        }
+      }
+    }
+  }
+}
